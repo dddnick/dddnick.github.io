@@ -7,7 +7,8 @@
         "wuKong": "github:elecfreaks/pxt-wukong#v1.4.1",
         "sonarbit": "github:elecfreaks/pxt-sonarbit#v1.0.4",
         "radio": "*",
-        "servo": "*"
+        "servo": "*",
+        "audio-recording": "*"
     },
     "files": [
         "main.blocks",
